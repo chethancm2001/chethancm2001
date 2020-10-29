@@ -10,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chethancm2001)
+
