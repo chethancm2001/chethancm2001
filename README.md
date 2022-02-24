@@ -13,4 +13,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chethancm2001)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethancm2001&repo=courses)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethancm2001&repo=quiz_cli_app)
