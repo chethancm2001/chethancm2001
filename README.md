@@ -1,16 +1,16 @@
 ### Hi there I am chethan👋
 
 
-- 🔭 I’m currently working on Clone of google Keep application
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning MERN technology
+- 👯 I’m looking to collaborate on web app development
+- 🤔 I’m looking for help with system design
+- 📫 How to reach me: chethancm2001kadur@gmail.com
+- 😄 Pronouns: chethan
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chethancm2001)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethancm2001&repo=devspace-hackathon)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethancm2001&repo=quiz_cli_app)
