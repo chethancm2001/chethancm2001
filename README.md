@@ -1,7 +1,7 @@
 ### Hi there I am chethan👋
 
 
-- 🌱 I’m currently learning MERN technology
+- 🌱 I’m currently buliding  the Things(Internet Of Things)
 - 👯 I’m looking to collaborate on web app development
 - 🤔 I’m looking for help with system design
 - 📫 How to reach me: chethancm2001kadur@gmail.com
