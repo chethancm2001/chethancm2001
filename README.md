@@ -1,8 +1,8 @@
 ### Hi there I am chethan👋
 
 
-- 🌱 I’m currently buliding  the Things(Internet Of Things)
-- 👯 I’m looking forword to get greater opportunities to learn IOT , Robotics ,embedded system
+- 🌱 I’m currently learning blockchain
+- 👯 I’m looking forword to get greater opportunities to learn web3 de
 - 🤔 I’m looking for help with product development
 - 📫 How to reach me: chethancm2001kadur@gmail.com
 - 😄 Pronouns: chethan
